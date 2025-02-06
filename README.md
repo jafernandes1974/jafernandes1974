@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jafernandes1974
 - 👀 I’m interested in working in software development
 - 🌱 I learned Java in a one-year course
-- 💞️ I’m looking for traineeships in order to improve my knowledge
+- 💞️ I’m looking for a job as a junior in Java
 - 📫 How to reach me: jafernandes1974@gmail.com 
 
 <!---
